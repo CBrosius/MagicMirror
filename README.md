@@ -12,3 +12,5 @@ I can only test arm32 and amd64 by myself, so arm64 is compiled but not tested.
 Finally I added a german sample-config-file because that is what I am trying to use by myself.
 
 If you have any comments, please let me know via my Blog (https://christian.flixblog.de/2019/12/26/magicmirror/)
+
+Latest Update: 2020/06/04
