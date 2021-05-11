@@ -13,4 +13,4 @@ Finally I added a german sample-config-file because that is what I am trying to 
 
 If you have any comments, please let me know via my Blog (https://christian.flixblog.de/2019/12/26/magicmirror/)
 
-Latest Update: 2020/10/01
+Latest Update: 2021/5/11
